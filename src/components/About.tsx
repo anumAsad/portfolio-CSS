@@ -8,7 +8,7 @@ const About = () => {
         About Me
       </h2>
       <p className="about-text" data-aos="zoom-in-up">
-      I am currently a student at the Government Institute of Artificial Intelligence and Computing (GIAIC), specializing in Artificial Intelligence and Web 3.0. Passionate about exploring AI technologies, I'm dedicated to developing innovative solutions that bridge the gap between technology and real-world applications.
+      I am currently a student at the Government Institute of Artificial Intelligence and Computing (GIAIC), specializing in Artificial Intelligence and Web 3.0. Passionate about exploring AI technologies, I am dedicated to developing innovative solutions that bridge the gap between technology and real-world applications.
       </p>
     </div>
   );
