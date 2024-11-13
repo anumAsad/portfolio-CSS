@@ -73,14 +73,10 @@ const Contact = () => {
             </div>
             <div className="form" data-aos="zoom-in-up">
               <label htmlFor="msg">Message</label>
-              <textarea 
-                className="textarea-field" 
-                id="msg" 
-                rows={8} 
-                value={formData.message} 
-                onChange={handleChange} 
-                required 
-              ></textarea>
+               <textarea
+                className='bg-transparent border border-yellow-700'
+                id='msg' rows={8} >
+                </textarea>
             </div>
 
             <button className="button" data-aos="zoom-in-up" type="submit">
